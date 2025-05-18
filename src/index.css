@@ -1,0 +1,254 @@
+/* ----------------------------------------sidebarwidth------------------------------------------------------------- */
+.w-20 {
+    width: 20%;
+}
+/* ------------------------------------------Suggestions---------------------------------------------------------------- */
+.w-30 {
+    width: 30%;
+}
+/* ---------------------------------------------insta logo--------------------------------------------------------- */
+.logo-text {
+    width: 150px;
+    margin-left: 10px;
+}
+/* -------------------------------------------sidebarlist------------------------------------------------------------ */
+.bi {
+    margin-right: 10px;
+}
+/* ------------------------------------------------story--------------------------------------------------------------- */
+.story {
+    height: 90px;
+}
+/* ---------------------------------------------------post------------------------------------------------------------- */
+.post {
+    margin-bottom: 20px;
+}
+
+.caption {
+    margin-left: 0px;
+    font-size: 18px;
+}
+
+.dp {
+    height: 70px;
+    width: 70px;
+    margin: 15px;
+}
+
+.image {
+    width: 500px;
+
+}
+
+/* -------------------------------------------------------------------sidebar----------------------------------------------------------------- */
+.side {
+    font-size: 23px;
+}
+
+.side {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 10px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.sidelist div {
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 8px;
+
+}
+
+.sidelist div:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+.sidelist div i {
+    margin-right: 10px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.menu div:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+.menu {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    margin-left: -10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 8px;
+
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------------------- */
+.namestyle {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.namestyle h5 {
+    font-size: 25px;
+}
+
+.namestyle h4 {
+    font-size: 20px;
+    padding-right: 70px;
+}
+/* ------------------------------------------------------ Suggestions-------------------------------------------------*/
+.Suggestions .dp {
+    height: 50px;
+    width: 50px;
+}
+
+.suggested {
+    margin-left: 30px;
+}
+
+.suggested b {
+    margin-right: 1px;
+}
+
+.btn {
+    text-decoration: none;
+
+}
+.sugg {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 35%;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);
+    width: 25%;
+}
+
+.sugg p {
+    margin-left: 10%;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 50px;
+
+}
+
+.sugg button {
+    padding: 10px;
+    margin-right: 80%;
+    border-radius: 12px;
+}
+.followtext,
+p {
+    margin-left: 35%;
+    font-size: 22px;
+}
+/* -----------------------------------------------------------stories----------------------------------------------- */
+
+.gradient-border {
+    width: 68px;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #ff00ff, #f17e30, #ffcc00);
+}
+
+.story-dp {
+    width: 60px;
+    height: 60px;
+    margin: 15px;
+}
+
+.story {
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    text-align: justify;
+}
+
+.story p {
+    margin-left: 3px;
+    margin-right: 5px;
+}
+
+.story:hover {
+    cursor: pointer;
+}
+/* -------------------------------------------------viewstorie-------------------------------------------------------- */
+.viewstory b {
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 33%;
+
+}
+
+.arrow i {
+    font-size: 50px;
+    padding: 20px;
+
+}
+
+.profile {
+    width: 200px;
+    height: 200px;
+
+}
+
+.profile {
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+}
+
+.profileimg h5 {
+    margin-left: 42%;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.profileimg h1 {
+    margin-left: 44.5%;
+    margin-top: 15px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.updatebtn {
+    margin-left: 45%;
+    background-color: #813bba;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.form-control {
+    width: 20%;
+}
+
+.forminput span {
+    margin: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.forminput {
+    margin-left: 22%;
+}
+
+

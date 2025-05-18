@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user_id": 1,
+      "image_url": "https://wallpapers.com/images/featured/cartoon-krishna-hww6o4qcvfbm2jvg.jpg",
+      "user_name": "radha_krishna",
+      "image": "https://wallpapers.com/images/featured/cartoon-krishna-hww6o4qcvfbm2jvg.jpg",
+      "captions": "Radha loves Krishna ",
+      "likes": 120,
+      "comments": [
+        1
+      ]
+    },
+    {
+      "id": "2",
+      "user_id": 2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1irakm2XKD0xniYh-97QAtfcJURglitNMCA&s",
+      "user_name": "Shinchan",
+      "image": "https://quickbutik.imgix.net/16840p/products/66d5f29b2913b.jpeg",
+      "captions": "Shinchan family",
+      "likes": 95,
+      "comments": []
+    },
+    {
+      "id": "3",
+      "user_id": 3,
+      "image_url": "https://wallpapers.com/images/hd/cartoon-bruce-lee-5ie3xoopb1y8rw9z.jpg",
+      "user_name": "bruce-lee",
+      "image": "https://w0.peakpx.com/wallpaper/1000/498/HD-wallpaper-bruce-lee-enter-the-dragon-18-bruce-2011-10-lee.jpg",
+      "captions": "bruce lee the greate fighter ",
+      "likes": 200,
+      "comments": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "4",
+      "user_id": 4,
+      "image_url": "https://myrightbird.com/assets/uploads/mybird_sun_conure_on_perch-900x651.jpg",
+      "user_name": "Bird",
+      "image": "https://i.pinimg.com/736x/91/71/68/917168fc0326d5f62a24da902f48b770.jpg",
+      "captions": "beautiful birds ",
+      "likes": 200,
+      "comments": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "5",
+      "user_id": 5,
+      "image_url": "https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/133831/300817/handmade%2Fdownscaled%2Fh_ic9mreh9etl_2000x2000__25098.1738748272.jpg?c=2",
+      "user_name": "Nature",
+      "image": "https://w0.peakpx.com/wallpaper/139/703/HD-wallpaper-nature-painting-painting-river-tree-deer-nature.jpg",
+      "captions": "Nature ",
+      "likes": 96,
+      "comments": []
+    }
+  ],
+  "profile": {
+    "id": "101",
+    "user_name": "santhosh_r",
+    "profile_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VqWmE2akPoyqOM9WZCqZoK8E8Jp-Ze-C0w&s"
+  },
+  "Suggestions": [
+    {
+      "id": "101",
+      "user_name": "santhosh",
+      "profile_pic": ""
+    },
+    {
+      "id": "102",
+      "user_name": "mani",
+      "profile_pic": ""
+    },
+    {
+      "id": "103",
+      "user_name": "mathan",
+      "profile_pic": ""
+    }
+  ],
+  "Story": [
+    {
+      "id": "1",
+      "user_id": 1,
+      "image_url": "https://flairglass.in/cdn/shop/files/ModernCuteRadhaKrishnaWallPaintingmain.jpg?v=1698218167",
+      "user_name": "radha_krishna",
+      "image": "https://i.pinimg.com/736x/a6/7d/05/a67d05edf38a68c6e8f04a1877e7c151.jpg"
+    },
+    {
+      "id": "2",
+      "user_id": 2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1irakm2XKD0xniYh-97QAtfcJURglitNMCA&s",
+      "user_name": "Shinchan",
+      "image": "https://m.media-amazon.com/images/I/41AP1VGhL7L.jpg"
+    },
+    {
+      "id": "3",
+      "user_id": 3,
+      "image_url": "https://wallpapers.com/images/hd/cartoon-bruce-lee-5ie3xoopb1y8rw9z.jpg",
+      "user_name": "bruce-lee",
+      "image": "https://americanluxurygifts.com/cdn/shop/products/81UzzuwfXRL._SY500.jpg?v=1660399022"
+    },
+    {
+      "id": "4",
+      "user_id": 4,
+      "image_url": "https://myrightbird.com/assets/uploads/mybird_sun_conure_on_perch-900x651.jpg",
+      "user_name": "Bird_lover",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/01/national-birds-day-2024-beautiful-birds-2024-01-1da65458bf9e69652db28c49b987d9b2.jpg"
+    },
+    {
+      "id": "5",
+      "user_id": 5,
+      "image_url": "https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/133831/300817/handmade%2Fdownscaled%2Fh_ic9mreh9etl_2000x2000__25098.1738748272.jpg?c=2",
+      "user_name": "Nature_liker",
+      "image": "https://thumbs.dreamstime.com/b/adorable-bunny-resting-grass-under-blooming-flowers-nature-springtime-wildlife-serenity-vertical-adorable-bunny-resting-356120994.jpg"
+    }
+  ],
+  "Followers": []
+}
